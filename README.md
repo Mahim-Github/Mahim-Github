@@ -5,7 +5,7 @@
 - 📫 How to reach me -@msstyles141@gmail.com
 - ⚡ Fun fact: Orewa Striker Da
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi Guys !!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahim-github&label=Profile%20views&color=0e75b6&style=flat" alt="mahim-github" /> </p>
 
@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahim-github&show_icons=true&locale=en" alt="mahim-github" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahim-github&" alt="mahim-github" /></p>
+
 
 <!---
 Mahim-Github/Mahim-Github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
