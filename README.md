@@ -23,41 +23,40 @@
     <tr>
       <!-- Project 1 -->
       <td width="33%">
-        <h3 align="center">Project 1</h3>
+        <h3 align="center">Uptime Monitoring System</h3>
         <div align="center">
-          <a href="#your-repo-link-here" target="_blank">
-            <img src="https://via.placeholder.com/300x200.png?text=Project+1" width="100%"/>
+          <a href="https://github.com/Mahim-Github/Uptimer" target="_blank">
           </a>
-          <p>Short description of project 1</p>
-          <p><strong>Tech Stack:</strong> React, Node.js, MongoDB</p>
-          <a href="#your-repo-link-here" target="_blank">View Code</a> •
-          <a href="#your-live-demo-link-here" target="_blank">Live Demo</a>
+          <p>• Developed a comprehensive web-based uptime monitoring system, ensuring website performance and availability across seven global
+regions while delivering real-time alerts through an intuitive user-friendly dashboard that enhanced operational awareness.<br>
+• Integrated MongoDB for efficient data management and storage of uptime metrics.</p>
+          <p><strong>Tech Stack:</strong> React, Tailwind CSS, Node.js, Express, MongoDB</p>
+          <a href="https://github.com/Mahim-Github/Uptimer" target="_blank">View Code</a> 
         </div>
       </td>
       <!-- Project 2 -->
       <td width="33%">
-        <h3 align="center">Project 2</h3>
+        <h3 align="center">PDF-GPT QA App</h3>
         <div align="center">
-          <a href="#your-repo-link-here" target="_blank">
-            <img src="https://via.placeholder.com/300x200.png?text=Project+2" width="100%"/>
+          <a href="https://github.com/Mahim-Github/pdf-qa-app" target="_blank">
           </a>
-          <p>Short description of project 2</p>
-          <p><strong>Tech Stack:</strong> Angular, Express, MySQL</p>
-          <a href="#your-repo-link-here" target="_blank">View Code</a> •
-          <a href="#your-live-demo-link-here" target="_blank">Live Demo</a>
+          <p>• Built an interactive web app enabling users to upload PDFs and ask questions about their content, utilizing FastAPI for backend
+processing and PyMuPDF for efficient PDF parsing.<br>
+• Designed a responsive frontend with React.js, enabling real-time Q&A via Hugging Face Transformers, improved API
+response times and boosted user engagement through a streamlined interface.</p>
+          <p><strong>Tech Stack:</strong> FastAPI, React.js, PyMuPDF, Hugging Face Transformers </p>
+          <a href="https://github.com/Mahim-Github/pdf-qa-app" target="_blank">View Code</a> •
         </div>
       </td>
       <!-- Project 3 -->
       <td width="33%">
-        <h3 align="center">Project 3</h3>
+        <h3 align="center">FinTrack Expense Management System</h3>
         <div align="center">
-          <a href="#your-repo-link-here" target="_blank">
-            <img src="https://via.placeholder.com/300x200.png?text=Project+3" width="100%"/>
+          <a href="https://github.com/Mahim-Github/Fintrack" target="_blank">
           </a>
-          <p>Short description of project 3</p>
-          <p><strong>Tech Stack:</strong> Python, Django, PostgreSQL</p>
-          <a href="#your-repo-link-here" target="_blank">View Code</a> •
-          <a href="#your-live-demo-link-here" target="_blank">Live Demo</a>
+          <p>Developed comprehensive MERN stack expense management application with secure JWT authentication and interactive analytics dashboard. </p>
+          <p><strong>Tech Stack:</strong>React.js, Node.js, Express.js, MongoDB, JWT</p>
+          <a href="https://github.com/Mahim-Github/Fintracke" target="_blank">View Code</a> •
         </div>
       </td>
     </tr>
