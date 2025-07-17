@@ -45,7 +45,7 @@ processing and PyMuPDF for efficient PDF parsing.<br>
 • Designed a responsive frontend with React.js, enabling real-time Q&A via Hugging Face Transformers, improved API
 response times and boosted user engagement through a streamlined interface.</p>
           <p><strong>Tech Stack:</strong> FastAPI, React.js, PyMuPDF, Hugging Face Transformers </p>
-          <a href="https://github.com/Mahim-Github/pdf-qa-app" target="_blank">View Code</a> •
+          <a href="https://github.com/Mahim-Github/pdf-qa-app" target="_blank">View Code</a> 
         </div>
       </td>
       <!-- Project 3 -->
@@ -56,7 +56,7 @@ response times and boosted user engagement through a streamlined interface.</p>
           </a>
           <p>Developed comprehensive MERN stack expense management application with secure JWT authentication and interactive analytics dashboard. </p>
           <p><strong>Tech Stack:</strong>React.js, Node.js, Express.js, MongoDB, JWT</p>
-          <a href="https://github.com/Mahim-Github/Fintracke" target="_blank">View Code</a> •
+          <a href="https://github.com/Mahim-Github/Fintrack" target="_blank">View Code</a> 
         </div>
       </td>
     </tr>
