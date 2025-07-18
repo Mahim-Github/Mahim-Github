@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahim-Github
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning Full Stack Development
-- 📫 How to reach me - @msstyles141@gmail.com
+- 📫 How to reach me - @mahims2302@gamil.com
 - ⚡ Tagline: Orewa Striker Da
 
 <h3 align="center">Hi Guys !!!!</h3>
